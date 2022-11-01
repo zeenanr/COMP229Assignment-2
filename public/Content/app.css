@@ -1,0 +1,80 @@
+/* custom css goes here */
+/* File name
+Zeenath Razak
+300591954
+01/10/2022
+*/
+/* custom css goes here */
+body {
+    background-color: rgb(193, 239, 224);
+    }
+    p{
+        text-align: center;
+    }
+    
+    h1{
+        text-align: center;
+        font-size: 30px; 
+    }
+    
+    h2{
+        text-align: center;
+        font-size: 30px; 
+    }
+    
+    
+    h4{
+        text-align: center;
+        font-size: 20px;
+    }
+    
+    .homePageQuote{
+        font-family: cursive;
+        font-size: 20px;
+    }
+    
+    .srvBtn{
+    text-align: center;
+    }
+    
+    .servicesList{
+    padding-top: 60px;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    
+    }
+    
+    .myPic{
+        float: left;
+      height: 300px;
+      margin-right: 50px;
+      margin-bottom: 50px;
+      border-radius: 10px;
+      box-shadow: 0px 1px 3px #656565;
+    
+    }
+    
+    .aboutMe{
+      font-size: 20px;
+      text-align: justify;}
+    
+    .ContactInfo{
+        text-align: left;
+        font-size: larger;
+        font-weight: bolder;
+        padding-left: 20px;
+    }
+    
+    form{
+        font-size: medium;
+        float: left;
+        padding: 20px;
+      height: 400px;
+      margin-right: 50px;
+      margin-bottom: 50px;
+      border-radius: 10px;
+      box-shadow: 0px 1px 3px #656565;
+    }
+  
+    
